@@ -1,0 +1,14 @@
+.venv/
+venv/
+entorno/
+__pycache__/
+*.py[cod]
+db.sqlite3
+.env
+.pytest_cache/
+.coverage
+*.log
+staticfiles/
+.vscode/
+.idea/
+.playwright-mcp/

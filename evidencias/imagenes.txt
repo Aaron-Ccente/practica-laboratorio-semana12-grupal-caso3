@@ -1,0 +1,8 @@
+﻿01_permiso_invalido.png: Formulario de solicitud con un motivo menor a 30 caracteres; se muestra el mensaje de validación.
+02_permiso_valido.png: Solicitud de permiso registrada correctamente y con estado Pendiente.
+03_aprobacion.png: Aprobación del permiso de Pedro Soto por el jefe del área; el estado aparece como Aprobado.
+04_admin.png: Panel de permisos de Django Admin con filtros y acción masiva disponibles.
+05_auditoria.png: Registro de auditoría con los eventos de creación y aprobación del permiso demo.
+06_permiso_denegado.png: Respuesta HTTP 403 al intentar abrir Reportes con la cuenta de empleado.
+07_sesion.png: Panel del portal que indica una sesión con caducidad tras 45 minutos de inactividad. No muestra la cookie sessionid ni su atributo HttpOnly.
+08_reporte.png: Reporte de asistencia con horas registradas, horas extra y opción de exportar a TXT.
